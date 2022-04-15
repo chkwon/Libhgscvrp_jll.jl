@@ -1,18 +1,288 @@
 [[libhgscvrp]]
-arch = "x86_64"
+arch = "aarch64"
+git-tree-sha1 = "80094a240a7b11ba2002db6520012dee269776a8"
+os = "macos"
+
+    [[libhgscvrp.download]]
+    sha256 = "8f35d750bfe2b539b76a889e9cd5db93ee7e4f0ef9801a042e034ae8351d9df4"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[libhgscvrp]]
+arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a2f70effb9fb61e9306d21cf48aa67939123f96b"
+git-tree-sha1 = "06eae66478d6cf1ba70da7b6906f81b4efe3c979"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "fb4fd8f271624e95c5773a4cdfd5a057c801e6d5e416a716e26cc95c0c9bbf25"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0d190c25c5ef7c0d5732be020dd723183d347497"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "dc3d25794e4b7b48a93f25980814378588fd71b8024a48e0d957f58a7563bdb3"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e28e6e2851ee61c9ec1f002dc1551badc6e13ed"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "97ac39fd642f6d235d35afbce6e2a2efbeac00c1d5d83c4708c37dcf9e56e797"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.aarch64-linux-musl-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d7de5db09c34c25ecd03ac7cc627a679dacdddb3"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "069443b1f448b5e48954bb51e35552b860bfdf310573f7fc949c69bc51cc7888"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.aarch64-linux-musl-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6192fe46b36bfe6a34ee67d6934d2bcf7f537a3c"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "15cae87dc6b3941fa152b306747de63128ab1e21f99775bd2271ce4c7051eaba"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2415d2c13f47e6e470cee392c516b40157ff9485"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "d5e7056aee41819dfb0253f7c3f7ea5230160fa48ffffa78bcffb98d8ef00e74"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "026a2469da2fb0d7bdb3e27440dabe148893dbe1"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "3e84437571f596152e5951a595806f47c8ac0f08db6d0641dd1dfe46b07ab09e"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a60e7cf5a5ff09177d3e28bf610d5d0a1eb3922b"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "edee30ed2472e1a792251ed162ad4fa95b03fc2b95e82bfc9cb8d2008b21f8cf"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6be7d37ec04f4ddcd795546b89dd00a42dd15429"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "53720aa5c48dbb816586b76a26355d0e77476397fc9a2be2521533c222164227"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ddc6f95bcfb4d211736159aa4fdcbb3173bb6ad1"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "127687a6dd8c0b19ce8103f3a66bdc143b52b52cbac0ddcab13065342667811c"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c6402bf3b01b91bebc097cfb1540b2294d9c4e7c"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "15542e17d36fe699054cca6f492af67463afc7306284633e316503a2bbd9b09b"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40d080063e8659128c96a666038cb0bb2545ba09"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "4967df628af3a4cfc73cb513e4337e7fb5a2f1cf5fdce361f9f5c318af471b5b"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "728e837b38b195c09047c5504fc2ce934bd44e4b"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "5b9a07bbca6237a16cb1afa99af32facd84db7ee9854bfef007989fa23b7b2d5"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-linux-gnu-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8029935cc808e0a6f6ba3ddb2c31e85f6fbcce4"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "17610b1812ada40d4e72370e911b1dc725d9c99ba84af65f319739466cd8022e"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-linux-gnu-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c68af4c0abd36659a3aea228fde1f42b6b1dfaea"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "26098479d3bf6c1d2471260a5cc22afa9b3472633933521b50895915992562fc"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-linux-musl-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "21b379b72d34d1d4fa1941fbd966829e6985e96d"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "e190eb5d0b5cff0442e85c73fcedc696947330a8aa4b28b0d54aeda4a4d569d0"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-linux-musl-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2034be7b157093e830c1804165dafda7cb459e2"
 os = "windows"
 
     [[libhgscvrp.download]]
-    sha256 = "6f7f4e54359e86a87ebe6bb5021fd557813a7ddf8340d3bf95589b191af204f2"
+    sha256 = "5405b026483d56e568af24d4b794751becb97dfda0bf729857a353308ccc476f"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "553d2c39c49722d88699091707220fd5ae83cc40"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "be05a2077e5006df93d9c042b59b99502b938432ce360bcde3db4eea10f12311"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8870ae94378639b575b1ed3e6cd3c503ab816b9b"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "36b646fa1fafea5f77a2624c461a767e7d1a46202602e4a390780341bad51952"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc846971ee8151b93fe6d2fe546a83a2245ce33f"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "bd751945e7d7997ba391938cb580bb4c804421e107fd568e3c1bcd7d999da62f"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+git-tree-sha1 = "02bcd94ce25ef505cce3dc4f110a552f394f00db"
+os = "macos"
+
+    [[libhgscvrp.download]]
+    sha256 = "a30fd7962c9fa3004f95d8c46c180304a6af4bf34d5aaccbc70c032b4425a48e"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e413fd5d0cfaa66c7a51b41d74c0973d2531180d"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "26f8973891a2c727a11f876d739c429be698e24ac86a11feeabc38d4e05ec2d2"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c5930b5b7682ecf82e8a666da3949f3bd5e05c0"
+libc = "glibc"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "ffe7954dec55a35114d55d8f4a54f9da8d7a960fa9b9cf131da711e135e8de52"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1f37f9d7c4f0b84818220635d41977a133ef0e95"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "dfa4da4fb481b2ffa575f580bc100a23364468a2bb1bddebc1f136898fad27b4"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-linux-musl-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "02db4b223b5e463eb8e15e869c31b3930894ed70"
+libc = "musl"
+os = "linux"
+
+    [[libhgscvrp.download]]
+    sha256 = "437505b09f4d6a2fa82cab5f2e9d9c1f4796347e745f051d49e6e17a3152e021"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-linux-musl-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+git-tree-sha1 = "b8f803f473d6d4d79e3e892e820c74a98bf00d6c"
+os = "freebsd"
+
+    [[libhgscvrp.download]]
+    sha256 = "14370105f1ca67e110ade168e8f485684243189d224c56a7a497aa539c5226cd"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fedbcd3fb499f003d6e7502feccc196c6882b24b"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "2728ef4a59dff8722e0aced5d506b36e9834a585d8b31edcb4f6f7513550fd81"
     url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[libhgscvrp]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4da3a0b1cc9fcf8961756963c8d73c7ec9b2b247"
+git-tree-sha1 = "93e9478c2a2161c18f86547c2af6d29ca4329bc3"
 os = "windows"
 
     [[libhgscvrp.download]]
-    sha256 = "e8a3c277450c88f2281f911965269f1cccf53aaebee38337c32fe1f61bf80653"
+    sha256 = "9222fd88781d060af87eb369950d675bed28a3bc9ca1ef8678ab6ae51991ac9d"
     url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
