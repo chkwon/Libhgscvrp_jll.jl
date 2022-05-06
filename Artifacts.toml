@@ -167,24 +167,6 @@ os = "linux"
     sha256 = "e190eb5d0b5cff0442e85c73fcedc696947330a8aa4b28b0d54aeda4a4d569d0"
     url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-linux-musl-cxx11.tar.gz"
 [[libhgscvrp]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e2034be7b157093e830c1804165dafda7cb459e2"
-os = "windows"
-
-    [[libhgscvrp.download]]
-    sha256 = "5405b026483d56e568af24d4b794751becb97dfda0bf729857a353308ccc476f"
-    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-w64-mingw32-cxx03.tar.gz"
-[[libhgscvrp]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "553d2c39c49722d88699091707220fd5ae83cc40"
-os = "windows"
-
-    [[libhgscvrp.download]]
-    sha256 = "be05a2077e5006df93d9c042b59b99502b938432ce360bcde3db4eea10f12311"
-    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.i686-w64-mingw32-cxx11.tar.gz"
-[[libhgscvrp]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "8870ae94378639b575b1ed3e6cd3c503ab816b9b"
@@ -244,24 +226,6 @@ os = "linux"
     [[libhgscvrp.download]]
     sha256 = "437505b09f4d6a2fa82cab5f2e9d9c1f4796347e745f051d49e6e17a3152e021"
     url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-linux-musl-cxx11.tar.gz"
-[[libhgscvrp]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fedbcd3fb499f003d6e7502feccc196c6882b24b"
-os = "windows"
-
-    [[libhgscvrp.download]]
-    sha256 = "2728ef4a59dff8722e0aced5d506b36e9834a585d8b31edcb4f6f7513550fd81"
-    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-w64-mingw32-cxx03.tar.gz"
-[[libhgscvrp]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "93e9478c2a2161c18f86547c2af6d29ca4329bc3"
-os = "windows"
-
-    [[libhgscvrp.download]]
-    sha256 = "9222fd88781d060af87eb369950d675bed28a3bc9ca1ef8678ab6ae51991ac9d"
-    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.1+0/libhgscvrp.v0.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
 [[libhgscvrp]]
 arch = "aarch64"
 git-tree-sha1 = "80094a240a7b11ba2002db6520012dee269776a8"
@@ -405,3 +369,39 @@ os = "windows"
     [[libhgscvrp.download]]
     sha256 = "a3e8c58324f284d10759110cabb280156e71761260f9a8fa2cbc623584c28700"
     url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.2+0/libhgscvrp.v0.0.2.x86_64-w64-mingw32.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8671c21dc6f50750deacbecf3d6ae73b1a666674"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "bcbcfa0a337b9412a1094bc8502b5a66744fc496c93f39b28d10290fbbbe4f5d"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.2+0/libhgscvrp.v0.0.2.i686-w64-mingw32-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e5a21d5198a14739b27539c59f1d766d87afdce5"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "b113240b5d917dc025a0b8e7cbcd2451878c0acc3c11cc0355897f6982d3e9ae"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.2+0/libhgscvrp.v0.0.2.i686-w64-mingw32-cxx11.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fe39fdafcde1e7c8364cf452cf3c4acbb7daaff7"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "3c64a6377baff2bf96c2678c45759ec1357e2edd9d125c48e0d48f14ae05c932"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.2+0/libhgscvrp.v0.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[libhgscvrp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "726232bb5f5ea95169ab017168c91279fd088fab"
+os = "windows"
+
+    [[libhgscvrp.download]]
+    sha256 = "18d51dff7f33cfa96e70ceab5de2d895309f8c986a2e8a355e19b3da23992999"
+    url = "https://github.com/chkwon/Libhgscvrp_jll.jl/releases/download/libhgscvrp-v0.0.2+0/libhgscvrp.v0.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
